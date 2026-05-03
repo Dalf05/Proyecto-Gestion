@@ -1,0 +1,6 @@
+# Aunque el proyecto se ejecuta en Node.js, incluyo los requisitos lógicos
+# que se habrían usado en una implementación paralela en Python/Django:
+django>=4.2.0
+sqlite3
+d3-js-bindings
+python-dotenv
